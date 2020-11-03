@@ -1,5 +1,5 @@
 # uts_chandra
-Repository ini berisi untuk memenuhi tugas UTS mata kuliah pemograman web dan project
+Repository ini berisi untuk memenuhi tugas UTS mata kuliah pemograman web dan project. 
 Judul website : Membangun website portofolio PHP dimana isi dari
 konten diambil melalui database mysql dan menggunakan bootstrap 4 sebagai framework dasar
 
